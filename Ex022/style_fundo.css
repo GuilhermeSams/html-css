@@ -1,0 +1,46 @@
+body {
+    background-image: url(imagens/pattern004.png);
+}
+
+div.quadrado {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+div#q1 {
+    background-color: skyblue;
+}
+
+div#q2 {
+    background-image: linear-gradient(to bottom, yellow, red);
+}
+
+div#q3 {
+    background-image: url(imagens/pattern003.png);
+}
+
+div.redondo {
+    border: 1px solid black;
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+    background-color: bisque;
+    border-radius: 50%;
+    justify-content: space-around;
+}
+
+div#r1{
+    background-image: url(imagens/pattern003.png);
+}
+
+div#r2 {
+    background-image: url(imagens/pattern001.png);
+}
+
+div#r3 {
+    background-image: linear-gradient(to bottom, yellow, red);
+}

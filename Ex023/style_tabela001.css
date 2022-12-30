@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: rgb(28, 31, 30);
+    
+}
+
+td {
+    border: 1px solid black;
+    background-color: beige;
+    padding: 10px;
+    vertical-align: middle;
+}

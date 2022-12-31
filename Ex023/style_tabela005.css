@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+}
+
+thead {
+
+}
+
+td , th {
+    width: 100px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.cnome {
+    background-color: aqua;
+}
+
+.csexo {
+    background-color: azure;
+}
+
+.cidade {
+    background-color: antiquewhite;
+}

@@ -20,8 +20,6 @@ h1 {
     outline-width: 5px;
     outline-style: dashed;
     outline-color: aqua;
-
-
 }
 
 a {
@@ -29,5 +27,4 @@ a {
     border-style: solid;
     border-color: red;
     margin-bottom: 10px;
-
 }
